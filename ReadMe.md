@@ -26,7 +26,7 @@
 
 ## See this project in action at below link:
 
-**[Click to redirect to Project-01](https://p2-restaurant.netlify.app/)**
+**[Click to redirect to Project-02](https://p2-restaurant.netlify.app/)**
 
 #
 
